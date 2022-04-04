@@ -1,0 +1,2 @@
+# Ingore all addons-apps, since they are developed in their own repositories
+x-apps/**
